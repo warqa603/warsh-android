@@ -1,10 +1,11 @@
 {
   "workbench_version": "1.1.0",
-  "exported_at": 1791558627833,
-  "total_corrections": 30,
+  "exported_at": 1791573919971,
+  "total_corrections": 33,
   "thumn_statuses": {
     "hizb_1_thumn_1": "IN_PROGRESS",
-    "hizb_1_thumn_2": "IN_PROGRESS"
+    "hizb_1_thumn_2": "IN_PROGRESS",
+    "hizb_1_thumn_6": "IN_PROGRESS"
   },
   "corrections": [
     {
@@ -439,6 +440,48 @@
       "color_hex": "#059340",
       "original_color_hex": "#059340",
       "timestamp": 1790897146690
+    },
+    {
+      "thumn_key": "hizb_1_thumn_6",
+      "hizb": 1,
+      "thumn": 6,
+      "word_index": 25,
+      "word_text": "اُ۬لرَّحِيمُۖ",
+      "char_index_in_word": 0,
+      "char_offset_in_thumn": 257,
+      "target_char": "ا",
+      "codepoint": "U+0627",
+      "target_type": "حرف أصل (ا)",
+      "color_hex": "#AF045F",
+      "timestamp": 1791573908893
+    },
+    {
+      "thumn_key": "hizb_1_thumn_6",
+      "hizb": 1,
+      "thumn": 6,
+      "word_index": 25,
+      "word_text": "اُ۬لرَّحِيمُۖ",
+      "char_index_in_word": 1,
+      "char_offset_in_thumn": 258,
+      "target_char": "ُ",
+      "codepoint": "U+064F",
+      "target_type": "Damma (ضمة)",
+      "color_hex": "#AF045F",
+      "timestamp": 1791573908895
+    },
+    {
+      "thumn_key": "hizb_1_thumn_6",
+      "hizb": 1,
+      "thumn": 6,
+      "word_index": 25,
+      "word_text": "اُ۬لرَّحِيمُۖ",
+      "char_index_in_word": 2,
+      "char_offset_in_thumn": 259,
+      "target_char": "۬",
+      "codepoint": "U+06EC",
+      "target_type": "علامة (U+6EC)",
+      "color_hex": "#AF045F",
+      "timestamp": 1791573908896
     }
   ]
 }
