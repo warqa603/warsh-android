@@ -1,7 +1,7 @@
 {
   "workbench_version": "1.1.0",
-  "exported_at": 1791555363413,
-  "total_corrections": 28,
+  "exported_at": 1791558627833,
+  "total_corrections": 30,
   "thumn_statuses": {
     "hizb_1_thumn_1": "IN_PROGRESS",
     "hizb_1_thumn_2": "IN_PROGRESS"
@@ -396,6 +396,34 @@
       "color_hex": "#AF045F",
       "original_color_hex": "#DF0479",
       "timestamp": 1790722626243
+    },
+    {
+      "thumn_key": "hizb_1_thumn_1",
+      "hizb": 1,
+      "thumn": 1,
+      "word_index": 32,
+      "word_text": "عَلَيْهِمْ",
+      "char_index_in_word": 0,
+      "char_offset_in_thumn": 296,
+      "target_char": "ع",
+      "codepoint": "U+0639",
+      "target_type": "حرف أصل (ع)",
+      "color_hex": "#059340",
+      "timestamp": 1791558618888
+    },
+    {
+      "thumn_key": "hizb_1_thumn_1",
+      "hizb": 1,
+      "thumn": 1,
+      "word_index": 32,
+      "word_text": "عَلَيْهِمْ",
+      "char_index_in_word": 1,
+      "char_offset_in_thumn": 297,
+      "target_char": "َ",
+      "codepoint": "U+064E",
+      "target_type": "Fatha (فتحة)",
+      "color_hex": "#059340",
+      "timestamp": 1791558618892
     },
     {
       "thumn_key": "hizb_1_thumn_2",
