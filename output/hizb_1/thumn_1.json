@@ -37,14 +37,29 @@
       "color": "#eb7e08"
     },
     {
+      "start": 50,
+      "end": 52,
+      "color": "#000000"
+    },
+    {
+      "start": 63,
+      "end": 65,
+      "color": "#006b9a"
+    },
+    {
       "start": 65,
       "end": 68,
-      "color": "#006b9a"
+      "color": "#000000"
     },
     {
       "start": 76,
       "end": 77,
       "color": "#e8ac03"
+    },
+    {
+      "start": 81,
+      "end": 82,
+      "color": "#eb7e08"
     },
     {
       "start": 90,
@@ -62,14 +77,14 @@
       "color": "#e8ac03"
     },
     {
-      "start": 103,
-      "end": 104,
-      "color": "#eb7e08"
+      "start": 102,
+      "end": 105,
+      "color": "#000000"
     },
     {
       "start": 105,
       "end": 106,
-      "color": "#eb7e08"
+      "color": "#a8a8a6"
     },
     {
       "start": 106,
@@ -77,19 +92,24 @@
       "color": "#006b9a"
     },
     {
-      "start": 112,
-      "end": 114,
-      "color": "#af045f"
+      "start": 111,
+      "end": 112,
+      "color": "#eb7e08"
     },
     {
-      "start": 125,
+      "start": 112,
+      "end": 114,
+      "color": "#000000"
+    },
+    {
+      "start": 124,
       "end": 126,
-      "color": "#ed0681"
+      "color": "#000000"
     },
     {
       "start": 128,
       "end": 130,
-      "color": "#ed0681"
+      "color": "#000000"
     },
     {
       "start": 134,
@@ -103,18 +123,8 @@
     },
     {
       "start": 163,
-      "end": 165,
-      "color": "#df0479"
-    },
-    {
-      "start": 167,
-      "end": 170,
-      "color": "#059340"
-    },
-    {
-      "start": 171,
       "end": 173,
-      "color": "#00a0e3"
+      "color": "#000000"
     },
     {
       "start": 182,
@@ -147,8 +157,13 @@
       "color": "#006b9a"
     },
     {
+      "start": 226,
+      "end": 227,
+      "color": "#eb7e08"
+    },
+    {
       "start": 232,
-      "end": 234,
+      "end": 236,
       "color": "#006b9a"
     },
     {
@@ -183,13 +198,8 @@
     },
     {
       "start": 320,
-      "end": 321,
-      "color": "#af045f"
-    },
-    {
-      "start": 321,
       "end": 322,
-      "color": "#df0479"
+      "color": "#af045f"
     },
     {
       "start": 325,
@@ -199,7 +209,7 @@
     {
       "start": 356,
       "end": 357,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 357,
@@ -212,6 +222,11 @@
       "color": "#a8a8a6"
     },
     {
+      "start": 367,
+      "end": 370,
+      "color": "#006b9a"
+    },
+    {
       "start": 374,
       "end": 375,
       "color": "#e8ac03"
@@ -222,9 +237,29 @@
       "color": "#a8a8a6"
     },
     {
+      "start": 382,
+      "end": 385,
+      "color": "#006b9a"
+    },
+    {
+      "start": 387,
+      "end": 388,
+      "color": "#eb7e08"
+    },
+    {
       "start": 391,
-      "end": 401,
+      "end": 393,
+      "color": "#000000"
+    },
+    {
+      "start": 393,
+      "end": 400,
       "color": "#af045f"
+    },
+    {
+      "start": 400,
+      "end": 401,
+      "color": "#000000"
     },
     {
       "start": 404,
@@ -254,12 +289,22 @@
     {
       "start": 445,
       "end": 446,
-      "color": "#eb7e08"
+      "color": "#a8a8a6"
     },
     {
       "start": 457,
       "end": 459,
       "color": "#006b9a"
+    },
+    {
+      "start": 459,
+      "end": 460,
+      "color": "#eb7e08"
+    },
+    {
+      "start": 488,
+      "end": 489,
+      "color": "#a8a8a6"
     },
     {
       "start": 491,
@@ -313,8 +358,13 @@
     },
     {
       "start": 550,
-      "end": 552,
+      "end": 551,
       "color": "#059340"
+    },
+    {
+      "start": 551,
+      "end": 553,
+      "color": "#000000"
     },
     {
       "start": 553,
@@ -327,9 +377,14 @@
       "color": "#eb7e08"
     },
     {
+      "start": 564,
+      "end": 565,
+      "color": "#a8a8a6"
+    },
+    {
       "start": 565,
       "end": 566,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 587,
@@ -338,8 +393,13 @@
     },
     {
       "start": 592,
-      "end": 594,
+      "end": 593,
       "color": "#059340"
+    },
+    {
+      "start": 593,
+      "end": 595,
+      "color": "#000000"
     },
     {
       "start": 611,
@@ -348,8 +408,13 @@
     },
     {
       "start": 616,
-      "end": 618,
+      "end": 617,
       "color": "#059340"
+    },
+    {
+      "start": 617,
+      "end": 619,
+      "color": "#000000"
     },
     {
       "start": 624,
@@ -367,6 +432,16 @@
       "color": "#00a0e3"
     },
     {
+      "start": 639,
+      "end": 640,
+      "color": "#a8a8a6"
+    },
+    {
+      "start": 642,
+      "end": 643,
+      "color": "#eb7e08"
+    },
+    {
       "start": 643,
       "end": 645,
       "color": "#006b9a"
@@ -377,9 +452,19 @@
       "color": "#006b9a"
     },
     {
+      "start": 662,
+      "end": 663,
+      "color": "#eb7e08"
+    },
+    {
+      "start": 670,
+      "end": 672,
+      "color": "#a8a8a6"
+    },
+    {
       "start": 674,
       "end": 675,
-      "color": "#e8ac03"
+      "color": "#ed0681"
     },
     {
       "start": 675,
@@ -389,12 +474,12 @@
     {
       "start": 686,
       "end": 687,
-      "color": "#e8ac03"
+      "color": "#000000"
     },
     {
       "start": 692,
       "end": 693,
-      "color": "#eb7e08"
+      "color": "#a8a8a6"
     },
     {
       "start": 694,
@@ -412,9 +497,14 @@
       "color": "#006b9a"
     },
     {
+      "start": 715,
+      "end": 717,
+      "color": "#a8a8a6"
+    },
+    {
       "start": 719,
       "end": 720,
-      "color": "#e8ac03"
+      "color": "#ed0681"
     },
     {
       "start": 720,
@@ -454,7 +544,7 @@
     {
       "start": 801,
       "end": 802,
-      "color": "#eb7e08"
+      "color": "#ed0681"
     },
     {
       "start": 802,
@@ -463,8 +553,13 @@
     },
     {
       "start": 803,
-      "end": 805,
+      "end": 804,
       "color": "#059340"
+    },
+    {
+      "start": 804,
+      "end": 806,
+      "color": "#000000"
     },
     {
       "start": 806,
@@ -478,8 +573,13 @@
     },
     {
       "start": 829,
-      "end": 831,
+      "end": 830,
       "color": "#059340"
+    },
+    {
+      "start": 830,
+      "end": 832,
+      "color": "#000000"
     },
     {
       "start": 850,
@@ -494,7 +594,7 @@
     {
       "start": 867,
       "end": 868,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 868,
@@ -504,12 +604,12 @@
     {
       "start": 874,
       "end": 876,
-      "color": "#df0479"
+      "color": "#000000"
     },
     {
       "start": 879,
       "end": 880,
-      "color": "#e8ac03"
+      "color": "#000000"
     },
     {
       "start": 881,
@@ -517,19 +617,19 @@
       "color": "#006b9a"
     },
     {
-      "start": 895,
+      "start": 893,
       "end": 899,
-      "color": "#059340"
+      "color": "#000000"
     },
     {
       "start": 900,
       "end": 901,
-      "color": "#e8ac03"
+      "color": "#000000"
     },
     {
-      "start": 921,
+      "start": 920,
       "end": 922,
-      "color": "#e8ac03"
+      "color": "#ed0681"
     },
     {
       "start": 922,
@@ -562,9 +662,24 @@
       "color": "#e8ac03"
     },
     {
+      "start": 946,
+      "end": 947,
+      "color": "#a8a8a6"
+    },
+    {
+      "start": 949,
+      "end": 951,
+      "color": "#059340"
+    },
+    {
       "start": 968,
       "end": 970,
       "color": "#006b9a"
+    },
+    {
+      "start": 970,
+      "end": 971,
+      "color": "#eb7e08"
     },
     {
       "start": 987,
@@ -603,8 +718,18 @@
     },
     {
       "start": 1023,
-      "end": 1024,
-      "color": "#006b9a"
+      "end": 1026,
+      "color": "#000000"
+    },
+    {
+      "start": 1033,
+      "end": 1034,
+      "color": "#a8a8a6"
+    },
+    {
+      "start": 1048,
+      "end": 1049,
+      "color": "#eb7e08"
     },
     {
       "start": 1049,
@@ -634,7 +759,7 @@
     {
       "start": 1096,
       "end": 1097,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 1097,
@@ -673,8 +798,13 @@
     },
     {
       "start": 1153,
-      "end": 1155,
+      "end": 1154,
       "color": "#059340"
+    },
+    {
+      "start": 1154,
+      "end": 1156,
+      "color": "#000000"
     },
     {
       "start": 1175,
@@ -694,7 +824,7 @@
     {
       "start": 1197,
       "end": 1198,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 1199,
@@ -707,9 +837,14 @@
       "color": "#006b9a"
     },
     {
+      "start": 1205,
+      "end": 1206,
+      "color": "#059340"
+    },
+    {
       "start": 1222,
       "end": 1223,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 1223,
@@ -724,7 +859,12 @@
     {
       "start": 1235,
       "end": 1236,
-      "color": "#eb7e08"
+      "color": "#a8a8a6"
+    },
+    {
+      "start": 1238,
+      "end": 1240,
+      "color": "#059340"
     },
     {
       "start": 1262,
@@ -984,7 +1124,7 @@
     {
       "start": 1719,
       "end": 1720,
-      "color": "#e8ac03"
+      "color": "#000000"
     },
     {
       "start": 1725,
@@ -1034,7 +1174,7 @@
     {
       "start": 1803,
       "end": 1804,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 1804,
@@ -1057,9 +1197,14 @@
       "color": "#eb7e08"
     },
     {
+      "start": 1881,
+      "end": 1883,
+      "color": "#a8a8a6"
+    },
+    {
       "start": 1885,
       "end": 1886,
-      "color": "#e8ac03"
+      "color": "#ed0681"
     },
     {
       "start": 1886,
@@ -1083,8 +1228,13 @@
     },
     {
       "start": 1920,
-      "end": 1925,
+      "end": 1923,
       "color": "#006b9a"
+    },
+    {
+      "start": 1923,
+      "end": 1925,
+      "color": "#000000"
     },
     {
       "start": 1925,
@@ -1092,9 +1242,14 @@
       "color": "#e8ac03"
     },
     {
+      "start": 1933,
+      "end": 1934,
+      "color": "#a8a8a6"
+    },
+    {
       "start": 1941,
       "end": 1942,
-      "color": "#e8ac03"
+      "color": "#000000"
     },
     {
       "start": 1949,
@@ -1104,12 +1259,12 @@
     {
       "start": 1955,
       "end": 1956,
-      "color": "#a8a8a6"
+      "color": "#000000"
     },
     {
       "start": 1957,
-      "end": 1959,
-      "color": "#a8a8a6"
+      "end": 1960,
+      "color": "#000000"
     },
     {
       "start": 1962,
@@ -1132,5 +1287,5 @@
       "color": "#eb7e08"
     }
   ],
-  "status": "IN_PROGRESS"
+  "status": "LOCKED"
 }
